@@ -1,0 +1,15 @@
+Segment 0: Quadrant - Q3
+Segment 1: Quadrant - Q3
+Segment 2: Quadrant - Q3
+Segment 3: Quadrant - Q2
+Segment 4: Quadrant - Q2
+Segment 5: Quadrant - Q2
+Segment 6: Quadrant - Q2
+Segment 7: Quadrant - Q2
+Segment 8: Quadrant - Q2
+Segment 9: Quadrant - Q2
+Segment 10: Quadrant - Q2
+Segment 11: Quadrant - Q2
+Segment 12: Quadrant - Q2
+Segment 13: Quadrant - Q2
+Segment 14: Quadrant - Q2
